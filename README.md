@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.linkedin.com/in/gpalleschi/"><img width="80%" src="./assets/MainTitle.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/gpalleschi/"><img width="20%" src="./assets/MainTitle.png" /></a></p>
 
 <br />
 
