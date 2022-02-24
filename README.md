@@ -10,7 +10,7 @@ I'm a very passionate FullStack developer from Italy
 
 - ❤️ I am very curious to any technological innovation.  
 
-- 💬 Ask me about anything [here](https://github.com//gpalleschi/issues)  
+- 💬 Ask me about anything [here](https://github.com/gpalleschi/gpalleschi/issues)  
 
 
 **Languages and Tools:**  
