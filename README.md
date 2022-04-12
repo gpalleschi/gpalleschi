@@ -4,7 +4,7 @@
 
 ## 🙎‍♂️ About Me 🎾♟️🥾⛪📖🚲
 
-I'm a very passionate FullStack developer from Italy.
+I'm a very passionate FullStack developer from Italy. 🍕
 
 
 - 💼 Project Leader at [TIM](https://www.tim.it/)  
