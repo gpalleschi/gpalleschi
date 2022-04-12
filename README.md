@@ -2,9 +2,9 @@
 
 <br />
 
-## 👨🏻‍ About Me 
+## 🙎‍♂️ About Me 🎾♟️🥾⛪📖🚲
 
-I'm a very passionate FullStack developer from Italy.  
+I'm a very passionate FullStack developer from Italy.
 
 
 - 💼 Project Leader at [TIM](https://www.tim.it/)  
@@ -37,9 +37,10 @@ I'm a very passionate FullStack developer from Italy.
 ## ☁️ Cloud Services
 <p align="left">
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
+  <img src="https://img.shields.io/badge/githubpages-1572B6.svg?style=for-the-badge&logo=githubpages&logoColor=white" />
 </p>
 
-## 💾 Databases
+## 📀 Databases
 <p align="left">
  <img src="https://img.shields.io/badge/Oracle-FF0000.svg?style=for-the-badge&logo=oracle&logoColor=white" />
  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
@@ -47,7 +48,7 @@ I'm a very passionate FullStack developer from Italy.
  <img src="https://img.shields.io/badge/postgresql-0080FF.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-## ⚙️ IDE & Editors
+## ⌨️ IDE & Editors
 <p align="left">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
   <img src="https://img.shields.io/badge/Eclipse-330066?style=for-the-badge&logo=Eclipse&logoColor=white" />
@@ -62,17 +63,17 @@ I'm a very passionate FullStack developer from Italy.
 
 ## 📈 GitHub Stats
 
-<p align="center" style="witdh:100%">
+<p align="left" style="witdh:100%">
 <img src="https://github-readme-stats.vercel.app/api?username=gpalleschi&theme=monokai&hide_border=false&include_all_commits=false&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpalleschi&theme=monokai&layout=compact&hide_border=true" />
 </p>
 
 ## 🏆GitHub Trophies
-<p align="center" style="witdh:100%">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gpalleschi&theme=monokai&no-frame=false&no-bg=false&margin-w=4&row=1" />
 </p>
 
-## 💌 Contact Me
+## 🖊️Contact Me
 [<img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />](https://github.com/gpalleschi)
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gnnk71)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gpalleschi/)
