@@ -12,6 +12,8 @@ I'm a very passionate FullStack developer from Italy
 
 - 💬 Ask me about anything [here](https://github.com/gpalleschi/gpalleschi/issues)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 **Languages and Tools:**  
 
