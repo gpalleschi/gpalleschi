@@ -62,10 +62,10 @@ I'm a very passionate FullStack developer from Italy.
 
 ## 📈 GitHub Stats
 
-<div class="flex">
+<p align="center" style="witdh:100%">
 <img src="https://github-readme-stats.vercel.app/api?username=gpalleschi&theme=monokai&hide_border=false&include_all_commits=false&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpalleschi&theme=monokai&layout=compact&hide_border=true" />
-</div>
+</p>
 
 ## 🏆GitHub Trophies
 <p align="center" style="witdh:100%">
@@ -78,6 +78,5 @@ I'm a very passionate FullStack developer from Italy.
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gpalleschi/)
 
 <br />
----
 <p align="center"> © 2022 GNNK71, all rights reserved. </p>
 
