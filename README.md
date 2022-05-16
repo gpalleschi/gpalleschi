@@ -66,8 +66,8 @@ I'm a very passionate FullStack developer from Italy. 🍕
 
 <p align="center" style="witdh:100%">
 <img src="https://github-readme-stats.vercel.app/api?username=gpalleschi&theme=monokai&hide_border=false&include_all_commits=false&count_private=true" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpalleschi&theme=monokai&layout=compact&hide_border=true" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=gpalleschi&theme=monokai&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gpalleschi&theme=monokai&layout=compact&hide_border=true" />
 </p>
 <!-- <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=kasuken&theme=dracula&hide_border=false&include_all_commits=false&count_private=true" />
