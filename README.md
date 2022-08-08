@@ -30,8 +30,11 @@ I'm a very passionate FullStack developer from Italy. 🍕
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/jquery-00994C?style=for-the-badge&logo=jquery&logoColor=white" />
   <img src="https://img.shields.io/badge/flutter-66B2FF?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/PRIMEREACT-00BFFF?style=for-the-badge&logo=preact&logoColor=white" />
+  <img src="https://img.shields.io/badge/jquery-00994C?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/MUI-1E90FF?style=for-the-badge&logo=MUI&logoColor=white" />
+</p>
 </p>
 
 ## ☁️ Cloud Services
