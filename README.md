@@ -24,6 +24,7 @@ I'm a very passionate FullStack developer from Italy. 🍕
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=F7DF1E" />
 </p>
 
 ## 💻 Framework and Libraries
@@ -42,6 +43,7 @@ I'm a very passionate FullStack developer from Italy. 🍕
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
   <img src="https://img.shields.io/badge/vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/githubpages-1572B6.svg?style=for-the-badge&logo=githubpages&logoColor=white" />
+  <img src="https://img.shields.io/badge/glitch-1342B6.svg?style=for-the-badge&logo=glitch&logoColor=white" />
 </p>
 
 ## 📀 Databases
