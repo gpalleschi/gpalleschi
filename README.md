@@ -1,11 +1,10 @@
-<p align="center"><a href="https://www.linkedin.com/in/gpalleschi/"><img width="60%" src="./assets/MainTitle.png" /></a></p>
+<p align="center"><a href="https://www.linkedin.com/in/gpalleschi/"><img width="60%" src="./assets/MainTitle.gif" /></a></p>
 
 <br />
 
 ## 🙎‍♂️ About Me 🎾♟️🥾⛪📖🚲
 
 I'm a very passionate FullStack developer from Italy. 🍕
-
 
 - 💼 Project Leader at [TIM](https://www.tim.it/)  
 
