@@ -90,5 +90,5 @@ I'm a very passionate FullStack developer from Italy. 🍕
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gpalleschi/)
 
 <br />
-<p align="center"> © 2022 GNNK71, all rights reserved. </p>
+<p align="center"> © 2022-2023 GNNK71, all rights reserved. </p>
 
