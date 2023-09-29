@@ -89,6 +89,7 @@ I'm a very passionate FullStack developer from Italy. 🍕
 [<img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/gnnk71)
 [<img alt="linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/gpalleschi/)
 [<img alt="discord" src="https://img.shields.io/badge/discord-404EED.svg?&style=for-the-badge&logo=discord&logoColor=white"/>](https://discordapp.com/users/364458647465492480)
+[<img alt="reddit" src="https://img.shields.io/badge/reddit-FF4500.svg?&style=for-the-badge&logo=reddit&logoColor=white"/>](https://www.reddit.com/user/GNNK71)
 
 <br />
 <p align="center"> © 2022-2023 GNNK71, all rights reserved. </p>
