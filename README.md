@@ -93,5 +93,5 @@ I'm a very passionate FullStack developer from Italy. 🍕
 
 
 <br />
-<p align="center"> © 2022-2024 GNNK71, all rights reserved. </p>
+<p align="center"> © 2022-2025 GNNK71, all rights reserved. </p>
 
