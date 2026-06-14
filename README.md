@@ -6,7 +6,7 @@
 
 I'm a very passionate FullStack developer from Italy. 🍕
 
-- 💼 Project Leader at [TIM](https://www.tim.it/)  
+- 💼 Senior IT Analyst at [TIM](https://www.tim.it/)  
 
 - ❤️ I am very curious to any technological innovation.  
 
@@ -93,5 +93,5 @@ I'm a very passionate FullStack developer from Italy. 🍕
 
 
 <br />
-<p align="center"> © 2022-2025 GNNK71, all rights reserved. </p>
+<p align="center"> © 2022-2026 GNNK71, all rights reserved. </p>
 
