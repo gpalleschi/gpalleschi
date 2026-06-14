@@ -6,7 +6,7 @@
 
 I'm a very passionate FullStack developer from Italy. 🍕
 
-- 💼 Senior IT Analyst at [TIM](https://www.tim.it/)  
+- 💼 Senior IT Business Analyst at [TIM](https://www.tim.it/)  
 
 - ❤️ I am very curious to any technological innovation.  
 
